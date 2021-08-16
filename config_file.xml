@@ -1,0 +1,18 @@
+<config>
+    <file
+            source_path="C:\Users\takos\AppData\Local\Programs\Python\Python39\test veeam\source"
+            destination_path="C:\Users\takos\AppData\Local\Programs\Python\Python39\test veeam\destination"
+            file_name="1.txt"
+    />
+    <file
+            source_path="C:\Users\takos\AppData\Local\Programs\Python\Python39\test veeam\source"
+            destination_path="C:\Users\takos\AppData\Local\Programs\Python\Python39\test veeam\destination"
+            file_name="2.txt"
+    />
+    <file
+            source_path="C:\Users\takos\AppData\Local\Programs\Python\Python39\test veeam\source"
+            destination_path="C:\Users\takos\AppData\Local\Programs\Python\Python39\test veeam\destination"
+            file_name="TimeData.csv"
+    />
+
+</config>
